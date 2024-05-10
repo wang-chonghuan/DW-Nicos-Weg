@@ -33,3 +33,114 @@ Taxi! Stopp!
 
 
 ===============================================
+
+翻译并解读每句话, 目的是让一个德语初学者能够理解并且学会.用英语,还要加入一些语法的解释, 从句子的语序, 单词的变形角度.解读过的句子和单词不用重复解读.
+
+Certainly! Let's translate and explain each sentence, providing insights into grammar, word order, and word forms for a beginner in German.
+
+---
+
+**LISA:**
+**Ich heiße Nico.**  
+**Translation:** My name is Nico.  
+**Explanation:** 
+- **"Ich"** means "I".
+- **"heiße"** is from the verb "heißen," meaning "to be called" or "to be named".
+- This sentence means "I am called Nico" or "My name is Nico."
+
+**EMMA:**
+**Hallo, Nico.**  
+**Translation:** Hello, Nico.  
+**Explanation:** 
+- **"Hallo"** means "hello".
+- Just greeting Nico.
+
+**LISA:**
+**Hallo. Also: Hallo, wie heißt du?**  
+**Translation:** Hello. So: Hello, what’s your name?  
+**Explanation:** 
+- **"Also"** means "so" or "thus," often used to transition or clarify.
+- **"Wie heißt du?"** means "What’s your name?"
+  - **"Wie"** means "how" or "what".
+  - **"heißt"** is the verb form for "du" from "heißen".
+  - **"du"** means "you".
+
+**NICO:**
+**Hallo, ich heiße Nico. Und wie heißt du?**  
+**Translation:** Hello, my name is Nico. And what’s your name?  
+**Explanation:** 
+- **"Und"** means "and".
+- **"Wie heißt du?"** repeats the question "What’s your name?"
+
+**LISA:**
+**Ich heiße Lisa.**  
+**Translation:** My name is Lisa.  
+**Explanation:** 
+- **"Ich heiße Lisa"** means "I am called Lisa."
+
+**EMMA:**
+**Nein, du heißt Nico.**  
+**Translation:** No, your name is Nico.  
+**Explanation:** 
+- **"Nein"** means "no".
+- **"du heißt Nico"** means "you are called Nico".
+
+**LISA:**
+**Das ist Emma. Emma spinnt gerade.**  
+**Translation:** That is Emma. Emma is acting crazy right now.  
+**Explanation:** 
+- **"Das ist"** means "That is".
+- **"Emma spinnt gerade"** means "Emma is acting crazy right now".
+  - **"spinnt"** is from "spinnen," which can mean "to spin" or colloquially "to be crazy".
+  - **"gerade"** means "right now".
+
+**EMMA:**
+**Ich … heiße … Ey!**  
+**Translation:** I ... am called ... Hey!  
+**Explanation:** 
+- **"Ich heiße"** means "I am called".
+- **"Ey!"** is an exclamation similar to "Hey!"
+
+**LISA:**
+**Emma!**  
+**Translation:** Emma!  
+**Explanation:** 
+- Just calling Emma’s name.
+
+**EMMA:**
+**Aber jetzt ist das „N“ weg! Das war Nico!**  
+**Translation:** But now the “N” is gone! That was Nico!  
+**Explanation:** 
+- **"Aber"** means "but".
+- **"jetzt"** means "now".
+- **"ist das 'N' weg"** means "the 'N' is gone".
+  - **"weg"** means "gone".
+- **"Das war Nico"** means "That was Nico".
+  - **"war"** is the past tense of "sein" (to be).
+
+**NICO:**
+**Ich?**  
+**Translation:** Me?  
+**Explanation:** 
+- **"Ich"** means "I" or "me" in this context, showing confusion.
+
+**LISA:**
+**Moment bitte. Ich muss noch kurz tanken.**  
+**Translation:** One moment, please. I still need to refuel briefly.  
+**Explanation:** 
+- **"Moment bitte"** means "One moment, please".
+- **"Ich muss noch kurz tanken"** means "I still need to refuel briefly".
+  - **"muss"** is from "müssen," meaning "must" or "have to".
+  - **"noch"** means "still" or "yet".
+  - **"kurz"** means "briefly".
+  - **"tanken"** means "to refuel".
+
+**NICO:**
+**Taxi! Stopp!**  
+**Translation:** Taxi! Stop!  
+**Explanation:** 
+- **"Stopp!"** is a command to stop, similar to "stop" in English.
+
+---
+
+This dialogue covers basic introductions, clarifications, and expressions of confusion, as well as practical phrases related to stopping a taxi and refueling. The explanations provide a solid foundation for understanding word order, verb forms, and sentence structure in German.
