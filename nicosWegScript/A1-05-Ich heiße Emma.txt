@@ -1,3 +1,27 @@
+LISA: 
+Hallo, wie heißt du? 
+NICO:
+Hallo, ich heiße Nico. Und wie heißt du?
+LISA:
+Ich heiße Lisa.
+EMMA:
+Nein, du heißt Nico.
+LISA:
+Das ist Emma. Emma spinnt gerade.
+EMMA:
+Aber jetzt ist das „N“ weg ! Das war Nico!
+NICO:
+Ich?
+LISA:
+Moment bitte. Ich muss noch kurz tanken.
+NICO:
+Taxi! Stopp!
+
+
+
+
+
+
 A1-05-Ich heiße Emma
 
 
